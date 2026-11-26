@@ -95,12 +95,11 @@ SQL (SQLite) for auditing, cleaning and metrics, with the raw table left untouch
 
 Page 1: target scorecard.
 
-<img width="1166" height="661" alt="image" src="https://github.com/user-attachments/assets/bfdf9434-080b-4536-8b70-0140b46ad303" />
+![Target scorecard](images/page1_scorecard.png)
 
 Page 2: profit and discounts.
 
-<img width="1164" height="656" alt="image" src="https://github.com/user-attachments/assets/89ac6b1f-ab34-4ff2-a6ad-2ea58aa9f0ef" />
-
+![Profit and discounts](images/page2_profit.png)
 
 ## Insights
 
