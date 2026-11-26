@@ -81,6 +81,7 @@ The data had no null values, but a full audit found several quirks. Each check i
 5. **Corporate and market targets were mostly missed.** Corporate growth was 20.5%, 26.6% and 24.3% against a 30% target. Africa never reached $400K, and LATAM and USCA pass only on gross sales in 2023.
 
 ## Recommendations
+A one-page summary for stakeholders is in executive_summary.md.
 
 1. **Cap discounts at 30%.** In the Excel scenario, 2023 profit rises by an estimated $112K to $121K (40% to 43% of 2023 profit) and margin moves from 15.0% to roughly 20% to 24%. The profit gain holds even if every capped sale is lost. Net sales fall unless at least about 69% of those sales still happen at the capped discount. Assumption: retained sales earn the 21-30% band's 2023 margin of 2.6%.
 2. **Investigate Asia Pacific first.** It is the largest and fastest-growing market, yet it lost $22.8K of profit in 2023 as its margin fell to 9.0%. The data has no cost fields, so the cause needs cost and pricing data.
@@ -117,7 +118,7 @@ Company margin on net sales: 21.2% (2020), 21.5%, 21.1%, 15.0% (2023, exactly 14
 ### [2] The 2023 profit drop
 - Profit fell $38,738 from 2022 to 2023 while net sales grew 23.6%.
 - Margin fell in every category: Body care 28.8% to 19.9%, Face care 43.5% to 33.4%, Make up 43.2% to 29.5%.
-- Margin fell in every discount band, including sales with no discount (33.4% to 28.1%). Discounting alone does not explain the drop.
+- Margin fell in the three profitable categories: Body care 28.8% to 19.9%, Face care 43.5% to 33.4%, Make up 43.2% to 29.5%. Hair care and Home and Accessories stayed near or below zero.
 - Heavy-discount lines did lose more in 2023 (-$112.2K against -$79.3K in 2022), because they grew and lost more per dollar sold (about 50 cents against 45 cents per net-sales dollar).
 - The data has no cost fields, so it shows where margin fell but not why.
 
